@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'all';
+	src:url(font2/CrimsonText-BoldItalic.ttf);
+}
+
+@font-face {
+	font-family: 'logo';
+	src:url(font2/CrimsonText-Italic.ttf);
+}
+
+@font-face 
+{
+  font-family:'Unicode';
+  src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') 
+  format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.ttf')
+   format('ttf');
+}
+
+@font-face {
+	font-family: 'myfont';
+	src:url(font2/._CrimsonText-Regular.ttf);
+}
